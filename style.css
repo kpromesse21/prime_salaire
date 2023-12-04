@@ -1,0 +1,44 @@
+.form-group{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    gap: 10px;
+    padding: 10px;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px solid black;
+
+}
+.form-group>button{
+    height: 40px;
+    background: #0c3f9e;
+    color: aliceblue;
+    font-size: 22px;
+}
+.form-group>label{
+ text-transform: capitalize;
+ font-size: x-large;
+}.form-group>input{
+    height: 40px;
+    border-radius: 5px;
+}
+.card{
+    border: 2px solid black;
+    width: 400px;
+    padding: 10px;
+    margin: 5px;
+    /* margin: auto; */
+}
+.index{
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.card>p{
+   
+}
+#classement{
+    border: 2px solid black;
+    width: 400px;
+    padding: 10px;
+    margin: 5px;
+}
